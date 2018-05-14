@@ -1,0 +1,4 @@
+<?php
+//000000000001
+ exit();?>
+[{"img_id":271,"goods_id":81,"image_url":"\/public\/upload\/goods\/2016\/01-18\/569cb7174c173.jpg"},{"img_id":272,"goods_id":81,"image_url":"\/public\/upload\/goods\/2016\/01-18\/569cb71732782.jpg"},{"img_id":273,"goods_id":81,"image_url":"\/public\/upload\/goods\/2016\/01-18\/569cb71712765.jpg"},{"img_id":274,"goods_id":81,"image_url":"\/public\/upload\/goods\/2016\/01-18\/569cb716e94cf.jpg"},{"img_id":275,"goods_id":81,"image_url":"\/public\/upload\/goods\/2016\/01-18\/569cb716cd922.jpg"},{"img_id":548,"goods_id":81,"image_url":"\/public\/upload\/goods\/2016\/01-18\/569cb6fe1e881.jpg"}]
